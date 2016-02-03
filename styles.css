@@ -1,0 +1,13 @@
+body {
+  background-color: yellow;
+}
+
+header {
+
+  border: 2px solid black;
+}
+
+.col-2 {
+
+  border: 2px solid red;
+}
