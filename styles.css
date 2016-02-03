@@ -1,11 +1,41 @@
-body {
-  background-color: yellow;
-}
 
 header {
+background-image: url('Odessa.jpg');
+width: 100%;
+background-size: cover;
+height: 310px;
+background-position-y: 510px;
 
-  border: 2px solid black;
 }
+
+.main-title {
+margin: 30px 0 0 450px;
+font-size: 50px;
+font-family: lobster, sans-serif;
+color: #162656;
+padding: 40px;
+position: absolute;
+
+}
+
+.nav-bar {
+position: relative;
+
+}
+
+li {
+  margin-top: 10px;
+  padding: 30px;
+  display: inline-block;
+  font-size: 18px;
+}
+
+h2 {
+
+  font-size: 40px;
+  margin-left: 120px;
+}
+
 
 .col-2 {
 
