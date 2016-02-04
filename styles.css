@@ -33,11 +33,75 @@ li {
 h2 {
 
   font-size: 40px;
-  margin-left: 120px;
+  margin-left: 100px;
+}
+
+p {
+  font-size: 15px;
+  margin-left: 100px;
+  text-align:left;
+
+}
+
+h3 {
+
+  font-size: 25px;
+  margin-left: 100px;
+}
+
+.first {
+
+  width: 14%;
+  border-radius: 100px;
+  margin-left: 25px;
+
+}
+
+ .second {
+
+   width: 35%;
+   margin-top: 65px;
+ }
+
+ main {
+   width: 99%;
+  margin: 0 auto;
+ }
+
+.col-1 {
+display: inline-block;
+vertical-align: top;
+width: 60%;
+
+}
+
+.col-2 {
+display: inline-block;
+vertical-align: top;
+width: 28%;
+margin-left: 129px;
+margin-top: 43px;
+
+
+}
+
+.content {
+  padding: 20px;
 }
 
 
-.col-2 {
+.content-2 p {
 
-  border: 2px solid red;
+  margin-left: 5px;
+}
+
+.content-2 h4 {
+
+  margin-left: -10px;
+  margin-bottom: 20px;
+}
+
+footer {
+
+  border-top: 2px solid black;
 }
